@@ -4,8 +4,8 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello hsshhj sba bdnbfm hii hjhjkzrusdfiguihl; jh nandini'
-                echo 'hii'
+                echo 'Hello hsshhj sba bdnbfm hii hjhjkzrusdfiguihl; jh hbjhk nandini'
+                echo 'hii bjhkj'
             }
         }
     }
